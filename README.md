@@ -68,21 +68,3 @@ Contains the tax calculation engine and rule definitions. This module handles va
 ### sales_data.csv
 Sample CSV file containing sales transactions. Format includes columns for transaction ID, amount, product category, and other relevant fields.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is open source and available under the MIT License.
-
-## Support
-For issues, questions, or contributions, please open an issue on the GitHub repository.
-
-## Author
-Created and maintained by palyam123
-
-## Roadmap
-- [ ] Add support for international tax rates
-- [ ] Implement tax exemption handling
-- [ ] Create web interface for tax calculations
-- [ ] Add automated testing suite
-- [ ] Generate detailed tax reports in PDF format
